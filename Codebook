@@ -1,0 +1,17 @@
+Codebook descibing input files used for the cource project of coursera cource "Getting and Cleaning Data"
+
+all files used for this analysis can be found in the files downloaded from the coursera site.
+
+for this analysis I chose to work with the summarised data files, not the raw inertial signal files
+
+feature annotations: features.txt
+
+test set data files:
+subject_test.txt
+X_test.txt
+Y_test.txt
+
+train set data files:
+subject_train.txt
+X_train.txt
+Y_train.txt
